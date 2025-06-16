@@ -1,2 +1,2 @@
 # My small music display
-![Alt text](image-url)
+![hehe](https://github.com/TogExe/SmolMusicDisplay/blob/main/image2.png?raw=true)
